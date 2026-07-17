@@ -1,115 +1,136 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:3A2A00&height=190&section=header&text=agent://satyam-sharma&fontSize=32&fontColor=FFB000&fontAlignY=38&desc=boot%20sequence%20initiated&descAlignY=55&descSize=16&descColor=E8DCC8&animation=fadeIn" alt="header" width="100%" />
-</p>
+<div align="center">
 
-### `$ whoami`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Hi%20There,%20I'm%20Satyam%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Agentic%20AI&descAlignY=55&descSize=18" width="100%"/>
 
-> BCA (New), Semester IV — self-directed track in **Data Science & AI Engineering**.
-> No formal role yet; the training data is roadmaps, papers, and shipped projects instead of a job title.
-> Core competency so far: Python, statistics, and classical ML. Current focus: making models *act*, not just predict.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;RAG+Pipelines+%2B+Python+Code+Interpreters;Data+Science+%7C+ML+%7C+LLM+Engineering;Learning+in+Public+%E2%80%94+One+Commit+at+a+Time" alt="Typing SVG" />
+</a>
 
-### `$ ps aux | grep agent`
+</div>
 
-**PID 001 — `rag_pipeline`**
-Document ingestion → chunking → embeddings → vector retrieval → grounded generation. The part where the model stops guessing and starts citing.
+<br/>
 
-**PID 002 — `code_interpreter_agent`**
-A sandboxed Python execution tool the agent can call mid-reasoning — so it can compute, debug, and self-correct instead of hallucinating an answer.
+## 🧭 About Me
 
-**PID 003 — `agent_roadmap` (background, 50-day)**
-Six phases, 24 projects. Currently in the phases covering guardrails, observability/tracing, MCP integration, and async parallel execution.
+- 🎓 BCA (Semester IV) student, self-driving my path into **Data Science & AI Engineering**
+- 🧠 Solid foundation in **Data Science & Machine Learning** — stats, linear algebra, EDA, classical ML, deep learning basics
+- 🤖 Currently building projects in **Agentic AI**: `RAG pipelines`, `Python code interpreter agents`, and multi-step tool-using systems
+- 📈 Following a structured, project-based roadmap rather than passive tutorials — theory → build → break → fix
+- 🗣️ Introvert by nature, working actively on communication & technical storytelling alongside the tech stack
+- 💬 Ask me about: recommendation systems, embeddings/vector search, Bayesian intuition, or Docker-deployed LLM proxies
 
-### `$ git log --oneline --graph project_02`
+<br/>
 
-```
-* recommender-system   Amazon Electronics 5-core dataset
-|\
-| * collaborative-filtering   ALS / SVD (Surprise, implicit) → Precision@10, NDCG@10 → MLflow
-| * two-tower-neural          64-dim embeddings, BPR loss, FAISS retrieval
-| * hybrid-scoring            + TF-IDF blend for cold-start coverage
-|/
-* baseline established        lightweight CF → strong portfolio narrative
-```
+## 🚀 Currently Building — Agentic AI
 
-### `$ stat ~/skills`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,git,github,vscode,linux,postgres&theme=dark" />
-</p>
+### 🔍 RAG Systems
+Retrieval-Augmented Generation pipelines — chunking strategies, embedding models, vector stores, and hybrid retrieval to ground LLM responses in real data.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=FFB000" />
-  <img src="https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=FFB000" />
-  <img src="https://img.shields.io/badge/LANGCHAIN-000000?style=for-the-badge&logo=langchain&logoColor=FFB000" />
-  <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logoColor=FFB000" />
-  <img src="https://img.shields.io/badge/MLFLOW-000000?style=for-the-badge&logo=mlflow&logoColor=FFB000" />
-  <img src="https://img.shields.io/badge/HUGGING%20FACE-000000?style=for-the-badge&logo=huggingface&logoColor=FFB000" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-### `$ ./contribution_snake.sh`
+### 🧑‍💻 Python Code Interpreter Agents
+Tool-using agents that can write, execute, and self-correct Python code in a sandboxed loop — the foundation for autonomous data analysis agents.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shatyamsharma7416-oss/shatyamsharma7416-oss/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/shatyamsharma7416-oss/shatyamsharma7416-oss/output/github-snake.svg" width="100%" />
-  </picture>
-</p>
+</td>
+</tr>
+</table>
 
-> ⚙️ This one needs a one-time setup — see **"Activating the contribution snake"** below. Until the Action runs once, this image will show broken.
+> 💡 Part of a broader **50-day AI Agent Engineering roadmap** covering agent safety/guardrails, observability & tracing, MCP integration, and async parallel execution.
 
-### `$ curl -s stats.local/satyam | jq`
+<br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shatyamsharma7416-oss&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFB000&icon_color=FFB000&text_color=E8DCC8&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatyamsharma7416-oss&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFB000&text_color=E8DCC8" />
-</p>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shatyamsharma7416-oss&hide_border=true&background=0D0D0D&stroke=FFB000&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=E8DCC8&currStreakNum=E8DCC8&sideNums=E8DCC8&dates=8A8266" />
-</p>
+<div align="center">
 
-### `$ cat featured_projects.log`
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,git,github,vscode,linux&perline=10" />
 
-| process | description | stack |
+<br/><br/>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge&logo=meta&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=recommendation-system&theme=tokyonight&hide_border=true" />
+</a>
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=agentic-ai-rag&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+| Project | Description | Stack |
 |---|---|---|
-| `agentic-ai-toolkit` | RAG + Python code-interpreter agent, tool-calling, guardrails | LangChain · FAISS · Claude/OpenAI API |
-| `product-recommender` | CF baseline → two-tower neural retrieval → hybrid scoring | Surprise · PyTorch · FAISS · MLflow |
-| `llm-proxy` | Self-hosted, Dockerized LLM proxy deployed on Render | Docker · Render |
+| **Recommendation Engine** | Collaborative filtering (ALS/SVD) + two-tower neural model with FAISS retrieval, evaluated via Precision@10 / NDCG@10 | `Surprise` `implicit` `FAISS` `MLflow` |
+| **Agentic RAG System** | Retrieval-augmented agent with tool-use, grounded answers, and a code-execution loop | `LangChain` `FAISS` `Python` |
+| **Self-hosted LLM Proxy** | Dockerized proxy deployed via Render with environment-based config | `Docker` `Render` |
 
-*(swap in real repo links once public — `[project-name](https://github.com/shatyamsharma7416-oss/repo)`)*
+<br/>
 
-### `$ cat contact.json`
+## 📊 GitHub Stats
 
-```json
-{
-  "email":    "satyam77876@gmail.com",
-  "linkedin": "linkedin.com/in/satyam-sharma-778383379",
-  "kaggle":   "kaggle.com/satyamsharma47"
-}
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🌱 Currently Learning
+
+```text
+Phase 1  ▓▓▓▓▓▓▓▓▓▓ Statistics & Probability     [Revision]
+Phase 2  ▓▓▓▓▓▓▓▓░░ Linear Algebra & Calculus     [Revision]
+Phase 3  ▓▓▓▓▓▓░░░░ Deep Learning Foundations
+Phase 4  ▓▓▓▓▓░░░░░ ML Algorithms — Theory Deep Dive
+Phase 5  ▓▓▓▓▓▓▓░░░ Agentic AI — RAG + Code Interpreter Agents
 ```
 
-<p align="center">
-  <a href="mailto:satyam77876@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFB000" /></a>
-  <a href="https://www.linkedin.com/in/satyam-sharma-778383379/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFB000" /></a>
-  <a href="https://www.kaggle.com/satyamsharma47"><img src="https://img.shields.io/badge/KAGGLE-000000?style=for-the-badge&logo=kaggle&logoColor=FFB000" /></a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A2A00,100:0D0D0D&height=150&section=footer&text=process%20status:%20RUNNING&fontSize=20&fontColor=FFB000&fontAlignY=75&animation=fadeIn" alt="footer" width="100%" />
-</p>
+## 📫 Let's Connect
 
----
+<div align="center">
 
-<details>
-<summary><b>⚙️ Activating the contribution snake (one-time setup)</b></summary>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br>
+</div>
 
-The snake section above reads from a branch called `output` that gets generated by a GitHub Action. To turn it on:
+<br/>
 
-1. Copy the file at `.github/workflows/snake.yml` (included alongside this README) into your repo at that exact path.
-2. Commit and push it to `main`.
-3. Go to the **Actions** tab on your repo → you should see a workflow called *generate animated snake* → let it run once (or trigger it manually via "Run workflow").
-4. It will create an `output` branch containing `github-snake.svg` and `github-snake-dark.svg`. Once that branch exists, the snake image in the README will render automatically — no further action needed, it updates itself every 12 hours.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" width="100%"/>
 
-</details>
+<div align="center">
+<i>⭐️ From <a href="#">your-username</a> — building in public, one agent at a time.</i>
+</div>
