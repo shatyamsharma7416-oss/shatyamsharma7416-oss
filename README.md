@@ -6,7 +6,7 @@
 └──────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FFB000&center=true&vCenter=true&width=650&lines=%3E+whoami;Satyam+Sharma;%3E+status;Training+on+Data+Science+%2B+ML+fundamentals;%3E+process;Building+agentic+AI+systems+(RAG%2C+tool-use);%3E+uptime;Learning+in+public%2C+one+commit+at+a+time_" alt="terminal typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=FFB000&center=true&vCenter=true&width=600&height=30&lines=%3E+whoami;Satyam+Sharma;%3E+status;Data+Science+%2B+ML+fundamentals;%3E+process;Building+agentic+AI+(RAG%2C+tools);%3E+uptime;Learning+in+public_" alt="terminal typing animation" />
 
 </div>
 
@@ -132,6 +132,6 @@ $ cat contact.json
 └──────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=1000&color=8A8266&center=true&vCenter=true&width=500&lines=session+active_" alt="cursor" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=1000&color=8A8266&center=true&vCenter=true&width=400&height=25&lines=session+active_" alt="cursor" />
 
 </div>
