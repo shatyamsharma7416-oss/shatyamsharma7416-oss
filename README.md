@@ -1,4 +1,4 @@
-<div align="center">
+user: <div align="center">
 
 ```
 ┌──────────────────────────────────────────────────────┐
@@ -135,3 +135,8 @@ $ cat contact.json
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=1000&color=8A8266&center=true&vCenter=true&width=400&height=25&lines=session+active_" alt="cursor" />
 
 </div>
+
+
+this is not rendering properly in github fix it if needed you can modify code or redesign
+
+assistant: 
